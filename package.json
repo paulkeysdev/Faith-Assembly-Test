@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://paulkeysdev.github.io/Faith-Assembly-Test/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
