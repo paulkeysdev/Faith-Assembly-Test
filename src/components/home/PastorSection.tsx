@@ -21,7 +21,7 @@ export const PastorSection = () => {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-elegant aspect-[4/5] max-w-md mx-auto">
               <img
-                src="./src/Imgs/Leaders/Pastor Simon Muriuki.jpeg"
+                src="./src/Imgs/Leaders/Pastor Simon Muriuki.JPEG"
                 alt="Senior Pastor of Faith Life Assembly Church"
                 className="w-full h-full object-cover"
                 loading="lazy"
